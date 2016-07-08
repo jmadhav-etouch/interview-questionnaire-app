@@ -33,5 +33,9 @@
     "url": "git://github.com/macbookpro-25/questionnaire-app.git"
   },
   "author": "macbookpro-25",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "sails-generate-scaffold": "0.0.5"
+  }
 }
